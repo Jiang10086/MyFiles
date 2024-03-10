@@ -1,4 +1,4 @@
-﻿*.lanzoub.com##.foot_info
+*.lanzoub.com##.foot_info
 *.lanzoub.com##.n_bot
 *.lanzoub.com##.n_box > div:nth-of-type(1)
 *.lanzoub.com##.n_foot
@@ -648,52 +648,6 @@ bbs.zol.com.cn##.manage-operationbox
 bbs.zol.com.cn##.pub-bbs-top
 bd.kuwo.cn###xiuchang-ad
 bd.kuwo.cn##.qrcode-container
-bilibili.com###activity_vote
-bilibili.com###elevator
-bilibili.com###entryOld
-bilibili.com###live_recommand_report
-bilibili.com##.activity
-bilibili.com##.backup
-bilibili.com##.bilibili-player-video-info
-bilibili.com##.bilibili-player-video-message
-bilibili.com##.bilibili-player-video-top-follow.bilibili-player-show
-bilibili.com##.bilibili-player-video-top-issue.player-tooltips-trigger
-bilibili.com##.bili-icon_xinxi_UPzhu
-bilibili.com##.contact-help
-bilibili.com##.default-btn.charge-btn.not-follow-charge-btn
-bilibili.com##.entry-old
-bilibili.com##.float-nav
-bilibili.com##.header-pay-banner
-bilibili.com##.help
-bilibili.com##.hint-point-red
-bilibili.com##.hot-follow
-bilibili.com##.legalize
-bilibili.com##.level
-bilibili.com##.level-link
-bilibili.com##.link
-bilibili.com##.mascot
-bilibili.com##.nameplate
-bilibili.com##.nav-goto-top
-bilibili.com##.nav-user-center > div:nth-of-type(3)
-bilibili.com##.on.right-side-bar
-bilibili.com##.p-auth.auth
-bilibili.com##.pendant
-bilibili.com##.plad
-bilibili.com##.proxy-box
-bilibili.com##.reply-notice
-bilibili.com##.reply-tags
-bilibili.com##.signin.user-con > div.item:nth-of-type(2)
-bilibili.com##.signin.user-con > div.item:nth-of-type(7)
-bilibili.com##.true-love
-bilibili.com##.try-feedback
-bilibili.com##.up-article-list-block
-bilibili.com##li.nav-link-item:nth-of-type(10)
-bilibili.com##li.nav-link-item:nth-of-type(11)
-bilibili.com##li.nav-link-item:nth-of-type(2)
-bilibili.com##li.nav-link-item:nth-of-type(4)
-bilibili.com##li.nav-link-item:nth-of-type(6)
-bilibili.com##li.nav-link-item:nth-of-type(8)
-bilibili.com##li.nav-link-item:nth-of-type(9)
 blog.csdn.net###blog_detail_zk_collection
 blog.csdn.net###pcCommentBox
 blog.csdn.net###recommendNps
@@ -1435,17 +1389,6 @@ list.jd.com##.scrolled
 list.jd.com##.spu-link
 list.jd.com##.w:nth-of-type(6)
 liulanmi.com##.sidebar
-live.bilibili.com###app > div:nth-of-type(10)
-live.bilibili.com###app > div:nth-of-type(11)
-live.bilibili.com###app > div:nth-of-type(12)
-live.bilibili.com###app > div:nth-of-type(13)
-live.bilibili.com###app > div:nth-of-type(14)
-live.bilibili.com###app > div:nth-of-type(15)
-live.bilibili.com###app > div:nth-of-type(16)
-live.bilibili.com###app > div:nth-of-type(6)
-live.bilibili.com###app > div:nth-of-type(7)
-live.bilibili.com###app > div:nth-of-type(8)
-live.bilibili.com###app > div:nth-of-type(9)
 live.bilibili.com###chat-draw-area-vm
 live.bilibili.com###my-dear-haruna-vm
 live.bilibili.com##.activity-pushing-out
@@ -2551,7 +2494,6 @@ search.aol.com##.AlsoTry_E.pl-10.dd
 search.aol.com##.hd_nav_item
 search.aol.com##.mt-12.plr-16.compFeedBack
 search.aol.com##.searchTop.cardReg
-search.bilibili.com##.rocket-con
 search.douban.com##._0lojw0n7h
 search.douban.com##div.ksdtVX.sc-dnqmqq:nth-of-type(1)
 search.dxy.cn###j_right_result
@@ -2634,7 +2576,6 @@ sousuo1.ohhey.cn##.logo_title
 sousuo1.ohhey.cn##.mEUgP
 sousuo1.ohhey.cn##.wITvVb
 sousuo1.ohhey.cn##div.iIWm4b.Sljvkf
-space.bilibili.com##.to-top
 speedceo.com###searchAdvertisement
 sspai.com##.articleWidth-687.article-tag
 sspai.com##.between
@@ -3588,44 +3529,6 @@ www.baiven.com##.pr-10.hidden-xs.hidden-sm.col-md-2.col-lg-2
 www.baiven.com##.pt-20.heading-art.heading
 www.baiven.com##ul.navbar-nav.nav
 www.bilibili.com###activity_vote
-www.bilibili.com###internationalHeader > .b-wrap
-www.bilibili.com###live_recommand_report
-www.bilibili.com###reco_list
-www.bilibili.com###right-bottom-banner > .lazy-img > img
-www.bilibili.com###slide_ad
-www.bilibili.com###v_tag
-www.bilibili.com##.a-crumbs
-www.bilibili.com##.authority
-www.bilibili.com##.banner-link
-www.bilibili.com##.b-head
-www.bilibili.com##.bili-banner
-www.bilibili.com##.b-wrap.first-screen
-www.bilibili.com##.b-wrap.storey-box
-www.bilibili.com##.clearfix.comment-header
-www.bilibili.com##.contact-help
-www.bilibili.com##.fixed-box > .more
-www.bilibili.com##.float-nav
-www.bilibili.com##.has-charge > span
-www.bilibili.com##.international-footer
-www.bilibili.com##.nav-link
-www.bilibili.com##.nav-tab-bar
-www.bilibili.com##.nav-tools
-www.bilibili.com##.not-follow.b-gz.follow-btn.default-btn > span > span
-www.bilibili.com##.original
-www.bilibili.com##.reply-notice
-www.bilibili.com##.report-scroll-module.report-wrap-module.ad-floor.ad-report
-www.bilibili.com##.report-scroll-module.report-wrap-module.clearfix.sponsor-module
-www.bilibili.com##.report-scroll-module.report-wrap-module.recom-wrapper
-www.bilibili.com##.report-wrap-module.up-article-list-block
-www.bilibili.com##.right-side-bar
-www.bilibili.com##.sponsor-mini-rank
-www.bilibili.com##.tag-container
-www.bilibili.com##.tip-info
-www.bilibili.com##[href^="//www.bilibili.com/blackboard/help.html#弹幕相关"]
-www.bilibili.com##a.report-scroll-module.report-wrap-module.ad-report:nth-of-type(1)
-www.bilibili.com##div.item:nth-of-type(7)
-www.bilibili.com##div.reply-wrap.list-item:nth-of-type(1) > .con > .info > .like > span
-www.bilibili.com##div.video-data:nth-of-type(2)
 www.bing.com###b_bop_tob_container
 www.bing.com##.b_rrsr
 www.bing.com##.b_rs
